@@ -7,6 +7,7 @@ namespace ProjectEuler_c_sharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            solutions.SolveEuler31.TrySolve();
         }
     }
 }
